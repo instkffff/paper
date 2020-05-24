@@ -1,3 +1,5 @@
+先用两天，可能改动大点，我把你源地址给放blog底下。
+
 <h1 align="center">paper</h1>
 
 <p align="center">🎨 paper 是一个简洁，没有过多冗余视觉元素和功能的 hexo 主题，其设计风格的灵感来源于📰 <strong>报纸</strong>等纸质读物。而且主题以一种💡<strong>极其巧妙</strong>的方式实现了当下(2019)流行的🌗<strong>Dark Mode</strong>，一键可开启。</p>
